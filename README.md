@@ -1,4 +1,4 @@
-\#Relational Databases
+# Relational Databases
 
 
 
@@ -8,17 +8,17 @@ The author is Aibek Melisov
 
 
 
-\##  О репозитории 
+##  О репозитории 
 
 
 
 Решения задач по SQL с сайта HackerRank (раздел Basic Select)
 
-Решения лежат в папке \*\*week1\*\*.
+Решения лежат в папке **week1**.
 
 
 
-\## Some basic git commands are:
+## Some basic git commands are:
 
 
 
@@ -36,5 +36,5 @@ git push
 
 
 
-!\[git logo](git.png)
+![git logo](git.png)
 
