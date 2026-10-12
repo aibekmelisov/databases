@@ -1,14 +1,14 @@
 # Relational Databases
 
 
-Creation date: 12.10.2026
+Creation date: 12.10.2026  
 The author is Aibek Melisov
 
 
 ##  О репозитории 
 
 
-Решения задач по SQL с сайта HackerRank (раздел Basic Select)
+Решения задач по SQL с сайта HackerRank (раздел Basic Select)  
 Решения лежат в папке **week1**.
 
 
